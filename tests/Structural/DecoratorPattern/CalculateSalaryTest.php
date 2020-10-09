@@ -1,6 +1,6 @@
 <?php
 
-namespace Kematjaya\DesignPattern\Tests\Behavioral\DecoratorPattern;
+namespace Kematjaya\DesignPattern\Tests\Structural\DecoratorPattern;
 
 use Kematjaya\DesignPattern\DecoratorPattern\Entity\Admin;
 use Kematjaya\DesignPattern\DecoratorPattern\Entity\Programmer;
