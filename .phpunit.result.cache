@@ -1,1 +1,1 @@
-C:30:"PHPUnit\Runner\TestResultCache":331:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:9:{s:13:"testAdminWork";d:0.002;s:18:"testProgrammerWork";d:0;s:15:"testRecruitment";d:0;s:45:"testCanCreateCsvWriterOnUnix with data set #0";d:0;s:45:"testCanCreateCsvWriterOnUnix with data set #1";d:0;s:7:"testRun";d:0;s:8:"testPool";d:0;s:11:"testEncrypt";d:0;s:15:"testSalaryAdmin";d:0;}}}
+C:30:"PHPUnit\Runner\TestResultCache":73:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:13:"testBroadcast";d:0.002;}}}
